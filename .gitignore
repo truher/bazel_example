@@ -1,3 +1,12 @@
+bazel-bazel_example
+bazel-bin
+bazel-out
+bazel-testlogs
+
+*.lock
+
+*.swp
+
 # Prerequisites
 *.d
 
